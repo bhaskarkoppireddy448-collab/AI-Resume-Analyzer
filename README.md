@@ -12,6 +12,7 @@
 AI Resume Analyzer is a machine learning and NLP-based web application developed to automate resume analysis. It extracts important information from resumes, evaluates candidate profiles, predicts suitable job roles, and provides personalized recommendations to help users improve their resumes.
 
 This project demonstrates the practical application of Python, Streamlit, Natural Language Processing (NLP), and MySQL in building an intelligent resume analysis system. It serves as both a learning project and a portfolio project showcasing AI-driven resume parsing and analytics.
+
 ---
 
 ## 📌 Overview
